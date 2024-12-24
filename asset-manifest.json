@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/forli-consulting-website/static/css/main.9168ad2d.css",
+    "main.js": "/forli-consulting-website/static/js/main.ce6de880.js",
+    "static/js/488.7dfe98aa.chunk.js": "/forli-consulting-website/static/js/488.7dfe98aa.chunk.js",
+    "index.html": "/forli-consulting-website/index.html",
+    "main.9168ad2d.css.map": "/forli-consulting-website/static/css/main.9168ad2d.css.map",
+    "main.ce6de880.js.map": "/forli-consulting-website/static/js/main.ce6de880.js.map",
+    "488.7dfe98aa.chunk.js.map": "/forli-consulting-website/static/js/488.7dfe98aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9168ad2d.css",
+    "static/js/main.ce6de880.js"
+  ]
+}
