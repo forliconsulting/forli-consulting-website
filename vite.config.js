@@ -13,5 +13,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/forli-consulting-website/', // Ensure the base path is set correctly
+  base: "/forli-consulting-website/", // Ensure the base path is set correctly
 });
