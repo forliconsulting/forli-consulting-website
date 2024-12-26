@@ -1,3 +1,4 @@
+// filepath: /c:/Users/fc12/Documents/code/forli-consulting-website/forli-consulting-website/src/main.jsx
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
