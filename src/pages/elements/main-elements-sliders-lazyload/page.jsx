@@ -10,8 +10,8 @@ import Slider5 from "@/components/elements/Slider5";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Element Page Slider Lazyload || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Element Page Slider Lazyload || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function ElementPageSliderLazyload() {
   return (

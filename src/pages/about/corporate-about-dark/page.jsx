@@ -15,8 +15,8 @@ import { features5 } from "@/data/features";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Corporate About Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Corporate About Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function CorporateAboutPageDark() {
   return (
@@ -172,7 +172,7 @@ export default function CorporateAboutPageDark() {
                           Primary Benefits
                         </h2>
                         <h3 className="section-title-small mb-40">
-                          Why choose Resonance?
+                          Why choose Forli?
                         </h3>
                         <div className="section-line" />
                       </div>

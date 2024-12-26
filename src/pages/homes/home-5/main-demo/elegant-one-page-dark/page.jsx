@@ -9,8 +9,8 @@ import ParallaxContainer from "@/components/common/ParallaxContainer";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Home 5 Main Demo Onepage Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Home 5 Main Demo Onepage Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function Home5MainDemoOnepageDark() {
   return (

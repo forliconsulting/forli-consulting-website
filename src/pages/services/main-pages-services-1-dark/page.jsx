@@ -13,8 +13,8 @@ import { menuItemsDark } from "@/data/menu";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Main Services 1 Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Main Services 1 Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function MainServicesPage1Dark() {
   return (
@@ -99,7 +99,7 @@ export default function MainServicesPage1Dark() {
                             Benefits
                           </h2>
                           <h3 className="section-title mb-30">
-                            Why choose Resonance?
+                            Why choose Forli?
                           </h3>
                           <p className="section-descr mb-50 mb-sm-30">
                             A static website stores a unique file for every page

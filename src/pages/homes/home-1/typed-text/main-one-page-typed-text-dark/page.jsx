@@ -9,8 +9,8 @@ import { mainDemoOnepage } from "@/data/menu";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Home 1 Typed Text Onepage Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Home 1 Typed Text Onepage Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function Home1TypedTextOnepageDark() {
   return (

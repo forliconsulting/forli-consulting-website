@@ -17,8 +17,8 @@ import Form2 from "@/components/newsletterForms/Form2";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Corporate Blog Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Corporate Blog Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function CorporateBlogPageDark() {
   return (

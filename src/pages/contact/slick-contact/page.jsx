@@ -10,8 +10,8 @@ import { slickMultipages } from "@/data/menu";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Slick Contacts || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Slick Contacts || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 const onePage = false;
 const dark = false;

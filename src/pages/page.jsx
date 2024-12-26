@@ -12,8 +12,8 @@ import HeaderPreview from "@/components/headers/HeaderPreview";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Preview Page || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Preview Page || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 
 export default function PreviewPage() {

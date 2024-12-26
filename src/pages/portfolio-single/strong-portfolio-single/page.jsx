@@ -11,8 +11,8 @@ import { allPortfolios } from "@/data/portfolio";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Strong Portfolio Single || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Strong Portfolio Single || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function StrongPortfolioSinglePage() {
   let params = useParams();

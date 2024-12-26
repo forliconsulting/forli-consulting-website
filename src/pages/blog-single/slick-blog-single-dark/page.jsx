@@ -9,8 +9,8 @@ import { allBlogs } from "@/data/blogs";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Slick Blogs Single Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Slick Blogs Single Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 
 export default function SlickBlogSinglePageDark() {

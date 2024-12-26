@@ -15,8 +15,8 @@ import { menuItemsDark } from "@/data/menu";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Main Services 2 Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Main Services 2 Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function MainServicesPage2Dark() {
   return (
@@ -129,7 +129,7 @@ export default function MainServicesPage2Dark() {
                     <div className="row mb-50 mb-sm-50">
                       <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 col-xl-6 offset-xl-3 text-center">
                         <h2 className="section-title-small mb-20">
-                          Why choose Resonance?
+                          Why choose Forli?
                         </h2>
                         <p className="text-gray mb-0">
                           Lorem ipsum dolor sit amet, consectetur adipiscing

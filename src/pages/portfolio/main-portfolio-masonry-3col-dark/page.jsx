@@ -10,8 +10,8 @@ import { menuItemsDark } from "@/data/menu";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Main Portfolio Page Masonry 3 Col Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Main Portfolio Page Masonry 3 Col Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function MainPortfolioPageMasonry3ColDark() {
   return (

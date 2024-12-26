@@ -13,8 +13,8 @@ import Account from "@/components/others/Account";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Main About 1 || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Main About 1 || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function MainPageAccount() {
   return (

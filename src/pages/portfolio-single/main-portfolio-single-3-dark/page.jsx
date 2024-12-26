@@ -13,8 +13,8 @@ import { allPortfolios } from "@/data/portfolio";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Main Portfolio Single Page 3 Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Main Portfolio Single Page 3 Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function MainPortfolioSinglePage3Dark() {
   let params = useParams();

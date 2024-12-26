@@ -15,8 +15,8 @@ import ParallaxContainer from "@/components/common/ParallaxContainer";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Bold Blog Single || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Bold Blog Single || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 
 export default function BoldBlogSinglePage() {

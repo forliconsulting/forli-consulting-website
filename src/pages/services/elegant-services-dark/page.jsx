@@ -13,8 +13,8 @@ import { features5 } from "@/data/features";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Elegant Services Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Elegant Services Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function ElegantServicesPageDark() {
   return (
@@ -251,7 +251,7 @@ export default function ElegantServicesPageDark() {
                           Primary Benefits
                         </h2>
                         <h3 className="section-title-small mb-40">
-                          Why choose Resonance?
+                          Why choose Forli?
                         </h3>
                         <div className="section-line" />
                       </div>

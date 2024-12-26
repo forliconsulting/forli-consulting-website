@@ -11,8 +11,8 @@ import Form6 from "@/components/newsletterForms/Form6";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Slick Blogs Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Slick Blogs Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 const onePage = false;
 const dark = true;

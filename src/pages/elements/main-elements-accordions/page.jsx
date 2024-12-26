@@ -12,8 +12,8 @@ import Accordion2 from "@/components/accordions/Accordion2";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Element Page Accordion || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Element Page Accordion || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function ElementPageAccordion() {
   return (

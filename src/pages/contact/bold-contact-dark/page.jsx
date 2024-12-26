@@ -13,8 +13,8 @@ import ParallaxContainer from "@/components/common/ParallaxContainer";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Bold Contact Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Bold Contact Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 const onePage = false;
 const dark = true;

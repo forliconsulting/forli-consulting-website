@@ -19,8 +19,8 @@ import Map from "@/components/common/Map";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Elegant Contact || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Elegant Contact || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function ElegantContactPage() {
   return (

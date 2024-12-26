@@ -13,8 +13,8 @@ import Features from "@/components/homes/home-1/Features";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Element Page Slider || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Element Page Slider || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function ElementPageSlider() {
   return (

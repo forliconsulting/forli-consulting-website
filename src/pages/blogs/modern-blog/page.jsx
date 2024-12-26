@@ -13,8 +13,8 @@ import ParallaxContainer from "@/components/common/ParallaxContainer";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Modern Blogs || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Modern Blogs || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function ModernBlogPage() {
   return (

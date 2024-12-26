@@ -8,8 +8,8 @@ import Footer1 from "@/components/footers/Footer1";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Home 1 Typed Text MultiPage Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Home 1 Typed Text MultiPage Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function Home1TypedTextMultiPageDark() {
   return (

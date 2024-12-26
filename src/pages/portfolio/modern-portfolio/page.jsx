@@ -10,8 +10,8 @@ const dark = false;
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Modern Portfolio || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Modern Portfolio || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function ModernPortfolioPage() {
   return (

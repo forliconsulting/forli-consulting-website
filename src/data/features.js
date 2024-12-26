@@ -68,7 +68,7 @@ export const qualities = [
   "We're Witty",
   "We're Honest",
   "We're Smart",
-  "We're Resonance",
+  "We're Forli",
 ];
 
 export const features = [

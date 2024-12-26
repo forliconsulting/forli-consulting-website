@@ -14,8 +14,8 @@ import { allBlogs } from "@/data/blogs";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Gradient Blogs Single || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Gradient Blogs Single || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function GradientBlogSinglePage() {
   let params = useParams();

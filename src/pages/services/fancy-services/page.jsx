@@ -12,8 +12,8 @@ const dark = false;
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Fancy Services || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Fancy Services || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function FancyServicesPage() {
   return (

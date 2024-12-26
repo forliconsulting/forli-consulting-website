@@ -19,7 +19,7 @@ export default function Hero3() {
                 className="section-caption mb-30 mb-xs-10 wow fadeInUp"
                 data-wow-duration="1.2s"
               >
-                Resonance Creative Studio
+                Forli Creative Studio
               </h2>
               <h1 className="hs-title-1 mb-30">
                 <span className="wow charsAnimIn" data-splitting="chars">
@@ -33,7 +33,7 @@ export default function Hero3() {
                     data-wow-delay="0.6s"
                     data-wow-duration="1.2s"
                   >
-                    Resonance is a full-service studio creating beautiful
+                    Forli is a full-service studio creating beautiful
                     digital experiences and products.
                   </p>
                 </div>

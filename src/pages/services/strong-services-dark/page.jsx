@@ -13,8 +13,8 @@ const onePage = false;
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Strong Services Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Strong Services Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function StrongServicesPageDark() {
   return (

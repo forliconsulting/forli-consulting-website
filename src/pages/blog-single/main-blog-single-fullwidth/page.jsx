@@ -16,8 +16,8 @@ import { allBlogs } from "@/data/blogs";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Main Blog Single Page Full Width || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Main Blog Single Page Full Width || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function MainBlogSinglePageFullWidth() {
   let params = useParams();

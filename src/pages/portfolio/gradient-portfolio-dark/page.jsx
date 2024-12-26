@@ -10,8 +10,8 @@ const dark = true;
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Gradient Portfolio Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Gradient Portfolio Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function GradientPortfolioPageDark() {
   return (

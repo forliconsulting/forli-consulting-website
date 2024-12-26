@@ -9,8 +9,8 @@ import Hero5 from "@/components/homes/home-1/heros/Hero5";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Home 1 Slider Background MultiPage || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Home 1 Slider Background MultiPage || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function Home1SliderBackgroundMultiPage() {
   return (

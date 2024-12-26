@@ -8,8 +8,8 @@ import { allPortfolios } from "@/data/portfolio";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Slick Portfolio SingleDark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Slick Portfolio SingleDark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 import { useParams } from "react-router-dom";
 export default function SlickPortfolioSinglePageDark() {

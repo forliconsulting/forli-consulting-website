@@ -14,8 +14,8 @@ import Faq from "@/components/common/Faq";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Corporate Contact || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Corporate Contact || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function CorporateContactPage() {
   return (

@@ -13,8 +13,8 @@ import Gallery1 from "@/components/gallery/Gallery1";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Main About 1 Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Main About 1 Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function MainPageGalleryCol3Dark() {
   return (

@@ -15,8 +15,8 @@ import Header1Multipage from "@/components/headers/Header1Multipage";
 import { menuItemsDark } from "@/data/menu";
 const metadata = {
   title:
-    "Modern Blogs Single Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Modern Blogs Single Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function ModernBlogSinglePageDark() {
   let params = useParams();

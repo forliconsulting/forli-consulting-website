@@ -9,8 +9,8 @@ import Hero2 from "@/components/homes/home-1/heros/Hero2";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Home 1 Typed Text MultiPage || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Home 1 Typed Text MultiPage || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function Home1TypedTextMultiPage() {
   return (

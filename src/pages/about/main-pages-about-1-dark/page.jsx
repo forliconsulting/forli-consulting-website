@@ -22,8 +22,8 @@ import { menuItemsDark } from "@/data/menu";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Main About 1 Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Main About 1 Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function MainPageAbout1Dark() {
   return (
@@ -61,7 +61,7 @@ export default function MainPageAbout1Dark() {
                               className="wow charsAnimIn"
                               data-splitting="chars"
                             >
-                              <AnimatedText text="Welcome to Resonance Creative Studio" />
+                              <AnimatedText text="Welcome to Forli Creative Studio" />
                             </span>
                           </h1>
                           <div className="row">

@@ -15,8 +15,8 @@ import { progressData } from "@/data/skills";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Elegant About || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Elegant About || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function ElegantAboutPage() {
   return (

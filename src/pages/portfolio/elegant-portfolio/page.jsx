@@ -13,8 +13,8 @@ import Marquee from "@/components/homes/home-5/Marquee";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Elegant Portfolio || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Elegant Portfolio || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function ElegantPortfolioPage() {
   return (

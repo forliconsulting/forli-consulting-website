@@ -12,8 +12,8 @@ import ParallaxContainer from "@/components/common/ParallaxContainer";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Brutalist About Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Brutalist About Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function BrutalistAboutPageDark() {
   return (
@@ -66,7 +66,7 @@ export default function BrutalistAboutPageDark() {
                         className="section-descr-large mb-60 mb-sm-40 wow fadeInUp"
                         data-wow-delay="0.1s"
                       >
-                        Resonance is a full-service creative studio creating
+                        Forli is a full-service creative studio creating
                         beautiful digital experiences and products. We are an
                         award winning studio specializing in branding, design
                         and engineering. Our mission is to make work meaningful.

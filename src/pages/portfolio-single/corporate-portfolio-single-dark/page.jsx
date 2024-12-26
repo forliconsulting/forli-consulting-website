@@ -10,8 +10,8 @@ import { allPortfolios } from "@/data/portfolio";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Corporate Portfolio Single Dark || Resonance &mdash; One & Multi Page Reactjs Creative Template",
-  description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Corporate Portfolio Single Dark || Forli &mdash; One & Multi Page Reactjs Creative Template",
+  description: "Forli &mdash; One & Multi Page Reactjs Creative Template",
 };
 export default function CorporatePortfolioSinglePageDark() {
   let params = useParams();
