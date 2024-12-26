@@ -22,7 +22,7 @@ export default function FooterPreview() {
               src="/assets/images/logo-dark.svg"
               width={105}
               height={34}
-              alt="Your Company Logo"
+              alt="Your Company Log3"
             />
           </Link>
           <p>

@@ -28,7 +28,7 @@ export default function Footer1({ dark = false }) {
                 width={105}
                 height={34}
                 className="light-mode-logo"
-                alt="Your Company Logo"
+                alt="Your Company Log2"
               />
 
               <img
