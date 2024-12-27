@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import LanguageSelect from "./components/LanguageSelect";
 import { init_classic_menu_resize } from "@/utlis/menuToggle";
 import { scrollToElement } from "@/utlis/scrollToElement";
+
 export default function HeaderPreview() {
   const [menuOpen, setMenuOpen] = useState([-1, -1]);
 
@@ -61,7 +62,7 @@ export default function HeaderPreview() {
         <Link to={`/`} className="logo">
           <img
             src="/assets/images/logo-dark.svg"
-            alt="Your Company Logo"
+            alt="Your Company Logo Main"
             width={105}
             height={34}
           />
