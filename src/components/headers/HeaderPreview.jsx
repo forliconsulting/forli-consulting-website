@@ -126,7 +126,7 @@ export default function HeaderPreview() {
                         >
                           {elm2.links.map((elm3, i3) => (
                             <li key={i3}>
-                              <Link to={elm3.href} target="_blank">
+                              <Link to={elm3.href}  >
                                 {elm3.text}
                               </Link>
                             </li>
