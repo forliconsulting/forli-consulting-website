@@ -12,7 +12,7 @@ import HeaderPreview from "@/components/headers/HeaderPreview";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Preview Page || Resonance &mdash; One & Multi Page Reactjs Creative Template",
+    "Preview Page || Forli &mdash; One & Multi Page Reactjs Creative Template",
   description: "Resonance &mdash; One & Multi Page Reactjs Creative Template",
 };
 
@@ -32,8 +32,7 @@ export default function PreviewPage() {
             <ParallaxContainer
               className="home-section bg-gray-light-1 bg-light-alpha-90 parallax-5 parallax-mousemove-scene scrollSpysection"
               style={{
-                backgroundImage:
-                  "url(/assets/images/full-width-images/section-bg-1.jpg)",
+                backgroundImage: `url(${import.meta.env.BASE_URL}assets/images/full-width-images/section-bg-1.jpg)`,
               }}
               id="home"
             >
@@ -62,10 +61,7 @@ export default function PreviewPage() {
             <hr className="mt-0 mb-0" />
             {/* End Divider */}
             {/* Intro Sections Demos Section */}
-            <section
-              className="page-section overflow-hidden"
-              id="intro-sections"
-            >
+            <section className="page-section overflow-hidden" id="intro-sections">
               <Intro />
             </section>
             {/* End Intro Sections Demos Section */}

@@ -61,7 +61,7 @@ export default function HeaderPreview() {
       <div className="nav-logo-wrap local-scroll">
         <Link to={`/`} className="logo">
           <img
-            src="/assets/images/logo-dark.svg"
+            src={`${import.meta.env.BASE_URL}assets/images/logo-dark.svg`}
             alt="Your Company Logo Main"
             width={105}
             height={34}
