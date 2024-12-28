@@ -423,6 +423,7 @@ function App() {
       window.removeEventListener("scroll", headerChangeOnScroll);
     };
   }, [pathname]);
+
   useEffect(() => {
     if (typeof window !== "undefined") {
       // Import the script only on the client side
@@ -431,6 +432,7 @@ function App() {
       });
     }
   }, []);
+  
   return (
     <>
       <Routes>
