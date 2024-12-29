@@ -6,8 +6,9 @@
   <title>Redirecting...</title>
   <script type="text/javascript">
     // Redirect to the index.html with the correct base path
-    var path = window.location.pathname.replace('/forli-consulting-website', '');
-    window.location.replace('/forli-consulting-website' + path);
+    var path = window.location.pathname;
+    var newPath = '/forli-consulting-website' + path;
+    window.location.replace(newPath);
   </script>
 </head>
 <body>
