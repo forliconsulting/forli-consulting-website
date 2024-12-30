@@ -7,7 +7,7 @@ export default function Footer3() {
       <div className="row">
         {/* Copyright */}
         <div className="col-lg-3 text-center text-lg-start mb-md-50">
-          <div>© Forli {new Date().getFullYear()}.</div>
+          <div>© Forli Consulting {new Date().getFullYear()}.</div>
           <div className="small">
             Made with love for <i>great people</i>.
           </div>

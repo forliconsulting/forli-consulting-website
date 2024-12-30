@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import LanguageSelect from "./components/LanguageSelect";
 import { init_classic_menu_resize } from "@/utlis/menuToggle";
 import { scrollToElement } from "@/utlis/scrollToElement";
+
 export default function HeaderPreview() {
   const [menuOpen, setMenuOpen] = useState([-1, -1]);
 
@@ -60,8 +61,8 @@ export default function HeaderPreview() {
       <div className="nav-logo-wrap local-scroll">
         <Link to={`/`} className="logo">
           <img
-            src="/assets/images/logo-dark.svg"
-            alt="Your Company Logo"
+            src={`${import.meta.env.BASE_URL}assets/images/logo-dark.svg`}
+            alt="Your Company Logo Main"
             width={105}
             height={34}
           />
@@ -125,7 +126,7 @@ export default function HeaderPreview() {
                         >
                           {elm2.links.map((elm3, i3) => (
                             <li key={i3}>
-                              <Link to={elm3.href} target="_blank">
+                              <Link to={elm3.href}  >
                                 {elm3.text}
                               </Link>
                             </li>
